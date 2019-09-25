@@ -4,6 +4,7 @@ cloneして音楽を再生してみよう！
 
 ## **実行環境**
 ただcloneしただけでは、音楽は再生されません。
+
 ubuntuで再生するために、以下のpythonモジュールをインストールしてください。
 
 `sudo apt-get install python-pygame`
