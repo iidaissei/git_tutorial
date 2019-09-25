@@ -11,4 +11,5 @@ ubuntuで再生するために、以下のpythonモジュールをインスト�
 `sudo apt-get install python-mutagen`
 
 モジュールたちをインストールしたら、クローンしてきたディレクトリで以下のコマンドを打って音楽再生だ！
+
 `python clone_tutorial.py`
